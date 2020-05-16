@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2795bcd-9b0f-429d-b99e-bd1dff230fe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/colorChange.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/colorChange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/elementHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/elementHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/fullScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/fullScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/animations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/has.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/jquery.bigscreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/record.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/sound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/track-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/two.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/two.rounded-rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdce/auditManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdce/checkManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdce/productManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/andi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/andi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/andi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/anime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/anime.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Unnamed" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bWvWw0snadmlliFWPNiYghlVVu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS&#10;LESS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/test/3.scss" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebStormWorkstation\KipKips\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebStormWorkstation\KipKips\gdce" />
+      <recent name="E:\WebStormWorkstation\KipKips" />
+      <recent name="E:\WebStormWorkstation\KipKips\test" />
+      <recent name="E:\WebStormWorkstation\KipKips\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2795bcd-9b0f-429d-b99e-bd1dff230fe7" name="Default Changelist" comment="" />
+      <created>1559098920658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559098920658</updated>
+      <workItem from="1559098925254" duration="306000" />
+      <workItem from="1559100168278" duration="2382000" />
+      <workItem from="1559104619148" duration="903000" />
+      <workItem from="1559105574293" duration="2086000" />
+      <workItem from="1559107796973" duration="2127000" />
+      <workItem from="1559110041455" duration="10595000" />
+      <workItem from="1559133518460" duration="9218000" />
+      <workItem from="1559178374722" duration="30262000" />
+      <workItem from="1559221335622" duration="4942000" />
+      <workItem from="1559264324705" duration="362000" />
+      <workItem from="1559265663024" duration="26501000" />
+      <workItem from="1559317298691" duration="3710000" />
+      <workItem from="1559355039010" duration="1314000" />
+      <workItem from="1559368297365" duration="7382000" />
+      <workItem from="1559379513684" duration="54000" />
+      <workItem from="1559379618530" duration="156000" />
+      <workItem from="1559391390387" duration="9729000" />
+      <workItem from="1559445438022" duration="13566000" />
+      <workItem from="1559470851246" duration="2316000" />
+      <workItem from="1559489824100" duration="4180000" />
+      <workItem from="1559525558659" duration="2813000" />
+      <workItem from="1559550164143" duration="7026000" />
+      <workItem from="1559567879197" duration="7338000" />
+      <workItem from="1559720621069" duration="6343000" />
+      <workItem from="1559743979377" duration="3593000" />
+      <workItem from="1559786578784" duration="4556000" />
+      <workItem from="1559795352370" duration="12976000" />
+      <workItem from="1560064817282" duration="3380000" />
+      <workItem from="1560069114906" duration="1538000" />
+      <workItem from="1560070952075" duration="6048000" />
+      <workItem from="1560217424506" duration="589000" />
+      <workItem from="1560230123797" duration="1369000" />
+      <workItem from="1560244513767" duration="1647000" />
+      <workItem from="1560257755173" duration="4776000" />
+      <workItem from="1560321668855" duration="6593000" />
+      <workItem from="1560390185342" duration="3519000" />
+      <workItem from="1560475662188" duration="13060000" />
+      <workItem from="1560575850866" duration="4330000" />
+      <workItem from="1560738651679" duration="9493000" />
+      <workItem from="1560909218026" duration="592000" />
+      <workItem from="1561511311223" duration="2099000" />
+      <workItem from="1561945303992" duration="890000" />
+      <workItem from="1561948007073" duration="121000" />
+      <workItem from="1561948522464" duration="597000" />
+      <workItem from="1561952387818" duration="1510000" />
+      <workItem from="1562029666730" duration="230000" />
+      <workItem from="1562031326398" duration="3378000" />
+      <workItem from="1562056501459" duration="883000" />
+      <workItem from="1562555460950" duration="1177000" />
+      <workItem from="1562576008122" duration="2130000" />
+      <workItem from="1562590907544" duration="8087000" />
+      <workItem from="1562601727213" duration="861000" />
+      <workItem from="1562635435395" duration="5706000" />
+      <workItem from="1562653804345" duration="1431000" />
+      <workItem from="1584632026400" duration="3475000" />
+      <workItem from="1584636751035" duration="10000" />
+      <workItem from="1584637148936" duration="59000" />
+      <workItem from="1584637772351" duration="78000" />
+      <workItem from="1584638255683" duration="29000" />
+      <workItem from="1584638328611" duration="30000" />
+      <workItem from="1584764677873" duration="45000" />
+      <workItem from="1585020346535" duration="10000" />
+      <workItem from="1586004295291" duration="607000" />
+      <workItem from="1588760699869" duration="280000" />
+      <workItem from="1589622279656" duration="2789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1588760978853">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1588760978853" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="KipKip" type="b2602c69:ProjectViewProjectNode" />
+        <item name="KipKip" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
