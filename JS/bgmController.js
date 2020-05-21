@@ -1,11 +1,11 @@
 
 /*bgm开关函数*/
 {
-    var canPlay=false;
+    var canPlay=true;
     function bgmOTF() {
         var text = document.getElementById("bgmOF").innerHTML;
         var audio = document.getElementById("a");
-        if (text == "B A C K T R A C K  :  O N") {
+        if (text === "B A C K T R A C K  :  O N") {
             audio.play();
             canPlay=true;
         }

@@ -24,7 +24,6 @@
 
 
     <style>
-
         /*button OnMouseOver闪烁动画*/
         #back:hover{
             animation:change1 0.2s ease ,change2 0.2s ease;
@@ -52,8 +51,8 @@
 </head>
 
 <body id="body" style="height: 100%;width: 100%" >
-<audio id="a" src="../music/loop.mp3" loop onloadeddata="obj1 = this; setTimeout(function() { obj1.play(); },1020)"></audio>
-<audio id="a1" src="../music/loop.mp3"  onloadeddata="obj = this; setTimeout(function() { x(); },10)"></audio>
+    <audio id="a" src="../music/loop.mp3"  loop onloadeddata="obj1 = this; setTimeout(function() { obj1.play(); },100)"></audio>
+    <audio id="a1" src="../music/loop.mp3"  onloadeddata="obj = this; setTimeout(function() { x(); },10)"></audio>
 
 <div id="outer" class="outer" ></div>
 <canvas id="color1" class="color1"></canvas>
@@ -191,9 +190,11 @@
     var dom = function(s){
         return document.getElementById(s)
     };
+    //JS操作它们时我们其中只需要transition就行了，由于这是浏览器商首先搞出来，因此都带着它们的前缀，如-ms-,-moz-等等，我们需要把它们改成驼峰风格才能调用
     dom.cssName = function (name){
         var prefixes = ['', '-ms-','-moz-', '-webkit-', '-khtml-', '-o-'],
-            rcap = /-([a-z])/g,capFn = function($0,$1){
+            rcap = /-([a-z])/g,
+            capFn = function($0,$1){
                 return $1.toUpperCase();
             };
         dom.cssName = function(name, target, test){

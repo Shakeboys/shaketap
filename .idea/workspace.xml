@@ -20,51 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2795bcd-9b0f-429d-b99e-bd1dff230fe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/colorChange.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/colorChange.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/elementHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/elementHandler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/fullScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/fullScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/animations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/editor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/has.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/jquery.bigscreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/record.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/sound.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/track-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/trigger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/tween.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/two.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/two.rounded-rectangle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/url.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdce/auditManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdce/checkManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdce/productManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/bgmController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/bgmController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/andi.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/andi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/andi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/anime.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/anime.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +56,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1bWvWw0snadmlliFWPNiYghlVVu" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -108,6 +67,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS&#10;LESS" />
@@ -215,6 +176,13 @@
       <workItem from="1586004295291" duration="607000" />
       <workItem from="1588760699869" duration="280000" />
       <workItem from="1589622279656" duration="2789000" />
+      <workItem from="1589627044839" duration="6000" />
+      <workItem from="1589627051193" duration="73000" />
+      <workItem from="1589632480343" duration="1220000" />
+      <workItem from="1589879163257" duration="38000" />
+      <workItem from="1589894023619" duration="1285000" />
+      <workItem from="1590048734477" duration="400000" />
+      <workItem from="1590064040441" duration="787000" />
     </task>
     <servers />
   </component>
@@ -231,15 +199,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1588760978853">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1590064826611">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1588760978853" />
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1590064826611" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

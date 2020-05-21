@@ -13,7 +13,6 @@
             animation:change1 0.2s ease ,change2 0.2s ease;
         }
 
-
         @keyframes change1{
 
             from{opacity: 1}
@@ -81,10 +80,10 @@
     </style>
 </head>
 <body id="body" style="height: 100%;width: 100%" >
-
+<audio id="a" src="../music/loop.mp3" loop onloadeddata="obj1 = this; setTimeout(function() { obj1.play(); },100)"></audio>
 <div id="out" style="background-color: #FFAFAF;cursor: auto; height: 100%;width: 100%">
         <div id="text" class="text" style="opacity: 0; cursor: auto; height: 100%;width: 100%; margin-top: 0px; font-size: 20px; font-family: sans-serif;">
-            <p style="user-select: none;cursor: auto; font-size: 21px; margin-top:280px">R E C N E P S - K I P S</p>
+            <p style="user-select: none;cursor: auto; font-size: 21px; margin-top:280px">S H A K E T A P</p>
             <p style= " margin-top:25px; font-size: 16px"><a href="start.html" id="st" style="color: #ffffff; border-bottom: 1px dashed #ffffff;user-select: none; text-decoration: none; height: 25px ; margin-right: 0;margin-left: 0">S T A R T</a></p>
             <p style="height: 5px; margin-top:7px;"><a id="ab" style="border-bottom: 1px dashed #ffffff; user-select: none;height: 25px ; margin-right: 0;font-size: 16px;margin-left:0">A&nbsp;B&nbsp;O&nbsp;U&nbsp;T</a></p>
             <p style="user-select: none;cursor: auto; height: 10px; margin-top:36px; font-size: 12px">&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;e n j o y&nbsp;&nbsp;&nbsp;i n&nbsp;&nbsp;&nbsp;t h e&nbsp;&nbsp;&nbsp;m u s i c&nbsp;&nbsp;&nbsp;a n d&nbsp;&nbsp;&nbsp;r h y t h m&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;</p>
