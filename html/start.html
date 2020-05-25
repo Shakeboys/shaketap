@@ -181,10 +181,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C L I C K&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;D R A G&nbsp;&nbsp;&nbsp;o r&nbsp;&nbsp;&nbsp;S W I P E&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div id="feedOF" class="feedOF" onmouseover="feedOnMouseOver()" onmousedown="feedDown()">F E E D B A C K  :  O N</div>
-<div id="bgmOF"  class="bgmOF" onmouseover="bgmOnMouseOver()" onmousedown="bgmDown()">B A C K T R A C K  :  O N</div>
+<div id="bgmOF"  class="bgmOF" onmouseover="bgmOnMouseOver()" onmousedown="bgmDown()">B A C K T R A C K  :  O F F</div>
 <div id="cover"  style="background-color: #FFAFAF;height: 100%;width: 100%;opacity: 1;position:absolute;left: 0;top: 0;"></div>
 <div id="line"  style="background-color: white;height: 2px;width: 0;opacity: 0.8;position:absolute;left: 0;right: 0;top: 50%;margin: 0 auto;"></div>
 </body>
+<iframe src="../music/loop.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 <script>
 
     var dom = function(s){
@@ -235,23 +236,23 @@
 
         var e3 = dom("back"),
             css3transition = dom.cssName("transition");
-        e3.style[css3transition] = "opacity 0.35s ease";
+        e3.style[css3transition] = "opacity 2s ease";
 
         var e4 = dom("full"),
             css3transition = dom.cssName("transition");
-        e4.style[css3transition] = "opacity 0.35s ease";
+        e4.style[css3transition] = "opacity 2s ease";
 
         var e5 = dom("text"),
             css3transition = dom.cssName("transition");
-        e5.style[css3transition] = "opacity 0.35s ease";
+        e5.style[css3transition] = "opacity 2s ease";
 
         var e6 = dom("feedOF"),
             css3transition = dom.cssName("transition");
-        e6.style[css3transition] = "opacity 0.35s ease";
+        e6.style[css3transition] = "opacity 2s ease";
 
         var e7 = dom("bgmOF"),
             css3transition = dom.cssName("transition");
-        e7.style[css3transition] = "opacity 0.35s ease";
+        e7.style[css3transition] = "opacity 2s ease";
 
         setTimeout(function () {
             e3.style.opacity = "1";

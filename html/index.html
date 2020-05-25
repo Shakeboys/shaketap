@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
     <link id="icon" rel="shortcut icon" href="../images/icon.png"/>
     <title>RECNEPS-KIPS</title>
-
-
     <style>
         #back:hover{
             animation:change1 0.2s ease ,change2 0.2s ease;
@@ -84,7 +82,7 @@
 <div id="out" style="background-color: #FFAFAF;cursor: auto; height: 100%;width: 100%">
         <div id="text" class="text" style="opacity: 0; cursor: auto; height: 100%;width: 100%; margin-top: 0px; font-size: 20px; font-family: sans-serif;">
             <p style="user-select: none;cursor: auto; font-size: 21px; margin-top:280px">S H A K E T A P</p>
-            <p style= " margin-top:25px; font-size: 16px"><a href="start.html" id="st" style="color: #ffffff; border-bottom: 1px dashed #ffffff;user-select: none; text-decoration: none; height: 25px ; margin-right: 0;margin-left: 0">S T A R T</a></p>
+            <p style= "margin-top:25px; font-size: 16px"><a href="start.html" id="st" style="color: #ffffff; border-bottom: 1px dashed #ffffff;user-select: none; text-decoration: none; height: 25px ; margin-right: 0;margin-left: 0">S T A R T</a></p>
             <p style="height: 5px; margin-top:7px;"><a id="ab" style="border-bottom: 1px dashed #ffffff; user-select: none;height: 25px ; margin-right: 0;font-size: 16px;margin-left:0">A&nbsp;B&nbsp;O&nbsp;U&nbsp;T</a></p>
             <p style="user-select: none;cursor: auto; height: 10px; margin-top:36px; font-size: 12px">&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;e n j o y&nbsp;&nbsp;&nbsp;i n&nbsp;&nbsp;&nbsp;t h e&nbsp;&nbsp;&nbsp;m u s i c&nbsp;&nbsp;&nbsp;a n d&nbsp;&nbsp;&nbsp;r h y t h m&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;</p>
             <p style="height: 5px; margin-top:35px;margin-left: 7px">
@@ -105,8 +103,6 @@
 
 <script type="text/javascript" src="../JS/fullScreen.js"></script>
 
-<!--<script type="text/javascript" src="../JS/elementHandler.js"></script>-->
-
 <script type="text/javascript">
     function fullOnMouseDown(){
         requestFullScreen(document.getElementById("body"));
@@ -115,6 +111,7 @@
     var dom = function(s){
         return document.getElementById(s)
     };
+    ////JS操作它们时我们其中只需要transition就行了，由于这是浏览器商首先搞出来，因此都带着它们的前缀，如-ms-,-moz-等等，我们需要把它们改成驼峰风格才能调用
     dom.cssName = function (name){
         var prefixes = ['', '-ms-','-moz-', '-webkit-', '-khtml-', '-o-'],
             rcap = /-([a-z])/g,capFn = function($0,$1){
@@ -135,15 +132,15 @@
     window.onload= function() {
         var e3 = dom("back"),
             css3transition = dom.cssName("transition");
-        e3.style[css3transition] = "opacity 0.5s ease";
+        e3.style[css3transition] = "opacity 2s ease";
 
         var e4 = dom("full"),
             css3transition = dom.cssName("transition");
-        e4.style[css3transition] = "opacity 0.5s ease";
+        e4.style[css3transition] = "opacity 2s ease";
 
         var e5 = dom("text"),
             css3transition = dom.cssName("transition");
-        e5.style[css3transition] = "opacity 0.5s ease";
+        e5.style["transition"] = "opacity 2s ease";
 
         setTimeout(function () {
             e3.style.opacity = "1";
