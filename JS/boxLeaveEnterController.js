@@ -8,6 +8,7 @@
         }
     }
     /*定义全局变量mouseDown*/
+    //设置inbox的truefalse可以决定是否在不停的绘画特定动画，目前版本对此变量无效
     var mouseDown = false;
     var inBox0;
     var inBox1;
@@ -274,7 +275,6 @@
     }
 
     function leave0() {
-
         if (mouseDown == true) {
             inBox0 = false;
         }
@@ -291,7 +291,6 @@
     function leave1() {
         if (mouseDown == true) {
             inBox1 = false;
-
         }
     }
 
@@ -312,7 +311,6 @@
 
     function enter3() {
         if (mouseDown == true) {
-
             play(4);
             inBox3 = true;
             box3Opacity()

@@ -276,18 +276,6 @@
 }
 
 
-
-@media (min-width:1px) and (max-width: 754px){
-
-    .box{
-        width: 25%;
-        height: 12.5%;
-        background: white;
-        text-align: center;
-        float: left;
-        opacity: 0;
-    }
-}
 @media (min-width:755px) and (max-width:10000px){
 
     .box{

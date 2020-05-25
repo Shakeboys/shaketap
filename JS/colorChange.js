@@ -7,7 +7,7 @@ var inputEnable=true;
     function colorChange() {
 
         var color = document.getElementById('color');
-        color.addEventListener('mousedown', count);
+        color.addEventListener('mousedown', count1);
         {
             var box0 = document.getElementById("box0");
             box0.addEventListener("mouseenter", count1);
@@ -134,6 +134,7 @@ var inputEnable=true;
                     if(n==1496){
                         opaHide();
                     }
+                    console.log(n);
                     n += 1;
                 }
                 else {
@@ -145,20 +146,9 @@ var inputEnable=true;
         }
     }
 
-    function count() {
-        let b = Date.now();
-        before = b;
-        clearTimeout(time);
-        var time = setTimeout(function () {
-            let a = Date.now();
-            now = a;
-        },0)
-        diff=before-now;
-    }
 
     function count1() {
-
-        if(mouseDown==true) {
+        //if(mouseDown==true) {
             let b = Date.now();
             before=b;
             clearTimeout(time);
@@ -167,7 +157,7 @@ var inputEnable=true;
                 now = a;
             },0)
             diff = before - now;
-        }
+        //}
     }
 
     var dom = function(s){
@@ -190,6 +180,7 @@ var inputEnable=true;
         };
         return dom.cssName(name);
     };
+    //背景动画
     {
         function opaShow() {
             var el = dom("opa"),
@@ -459,6 +450,7 @@ var inputEnable=true;
             el.style.height = "0%";
         }
     }
+
     function random() {
         var randomNum = diff%16;
         switch (randomNum) {

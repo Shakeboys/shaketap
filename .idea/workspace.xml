@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a2795bcd-9b0f-429d-b99e-bd1dff230fe7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/bgmController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/bgmController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS/KipKips.css" beforeDir="false" afterPath="$PROJECT_DIR$/CS/KipKips.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/boxLeaveEnterController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/boxLeaveEnterController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/colorChange.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/colorChange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/elementHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/elementHandler.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +185,7 @@
       <workItem from="1590048734477" duration="400000" />
       <workItem from="1590064040441" duration="787000" />
       <workItem from="1590064828693" duration="409000" />
-      <workItem from="1590390247507" duration="2685000" />
+      <workItem from="1590390247507" duration="7714000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,4 @@
 
-/*触摸函数事件*/
-{
-    var isSupportTouch = 'ontouchstart' in window || "ontouchend" in window.document;
-// 支持触摸式使用相应的事件替代
-    var hightEvent_in  = isSupportTouch ? 'touchstart': 'mouseover',
-        hightEvent_out = isSupportTouch ? 'touchend' : 'mouseout';
-}
-
 /*显隐控制模块*/
 {/*text显隐控制模块*/
     function textOnMouseDown() {
